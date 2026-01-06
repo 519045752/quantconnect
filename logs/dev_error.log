@@ -1,0 +1,199 @@
+2026-01-05 22:24:42.495 | WARNING  | Log | dev | 58716 | 5692 | Log._log_with_context:339 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:24:42.492081'}
+2026-01-05 22:35:50.711 | WARNING  | Global | dev | 23816 | 69708 | main.<module>:26 | {'target_name': 'SQQQ', 'holding_weight': 0.3} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:50.706774'}
+2026-01-05 22:35:50.713 | WARNING  | Global | dev | 23816 | 69708 | main.<module>:26 | {'target_name': 'SOXS', 'holding_weight': 0.2} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:50.706774'}
+2026-01-05 22:35:50.714 | WARNING  | Global | dev | 23816 | 69708 | main.<module>:26 | {'target_name': 'SPXU', 'holding_weight': 0.5} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:50.706774'}
+2026-01-05 22:42:01.972 | WARNING  | Log | dev | 52504 | 57324 | Log._log_with_context:346 | 警告信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:42:01.971760'}
+2026-01-05 22:42:01.972 | ERROR    | Log | dev | 52504 | 57324 | Log._log_with_context:346 | 错误信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:42:01.971760'}
+2026-01-05 22:42:01.972 | ERROR    | Log | dev | 52504 | 57324 | Log._log_with_context:346 | division by zero: 除零错误 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:42:01.971760', 'exc_info': True}
+2026-01-05 22:43:50.206 | WARNING  | Log | dev | 39612 | 46084 | Log._log_with_context:346 | 警告信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:43:50.206994'}
+2026-01-05 22:43:50.206 | ERROR    | Log | dev | 39612 | 46084 | Log._log_with_context:346 | 错误信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:43:50.206994'}
+2026-01-05 22:43:50.207 | ERROR    | Log | dev | 39612 | 46084 | Log._log_with_context:346 | division by zero: 除零错误 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:43:50.206994', 'exc_info': True}
+2026-01-05 22:48:45.388 | WARNING  | Log | dev | 72288 | 12132 | Log._log_with_context:348 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:48:45.381269'}
+2026-01-05 22:49:18.616 | WARNING  | Log | dev | 35268 | 71584 | Log._log_with_context:348 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:49:18.609630'}
+2026-01-05 22:49:18.619 | WARNING  | Log | dev | 35268 | 71584 | Log._log_with_context:348 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:49:18.609630'}
+2026-01-05 22:49:18.620 | WARNING  | Log | dev | 35268 | 71584 | Log._log_with_context:348 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:49:18.609630'}
+2026-01-05 23:17:23.787 | ERROR    | Log | dev | 48348 | 57892 | Log._log_with_context:348 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:17:23.779995'}
+2026-01-05 23:17:23.788 | ERROR    | Log | dev | 48348 | 57892 | Log._log_with_context:348 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:17:23.779995'}
+2026-01-05 23:17:23.789 | ERROR    | Log | dev | 48348 | 57892 | Log._log_with_context:348 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:17:23.779995'}
+2026-01-05 23:17:23.790 | ERROR    | Log | dev | 48348 | 57892 | Log._log_with_context:348 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:17:23.779995'}
+2026-01-05 23:20:25.739 | ERROR    | Log | dev | 9076 | 2716 | Log._log_with_context:356 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:20:25.733841'}
+2026-01-05 23:20:25.740 | ERROR    | Log | dev | 9076 | 2716 | Log._log_with_context:356 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:20:25.733841'}
+2026-01-05 23:20:25.741 | ERROR    | Log | dev | 9076 | 2716 | Log._log_with_context:356 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:20:25.733841'}
+2026-01-05 23:20:25.742 | ERROR    | Log | dev | 9076 | 2716 | Log._log_with_context:356 | <class 'TradingPipeline.Env'> | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:20:25.733841'}
+2026-01-05 23:25:27.615 | ERROR    | Log | dev | 63820 | 2688 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:27.607557'}
+2026-01-05 23:25:27.615 | ERROR    | Log | dev | 63820 | 2688 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:27.607557'}
+2026-01-05 23:25:27.615 | ERROR    | Log | dev | 63820 | 2688 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:27.607557'}
+2026-01-05 23:25:27.616 | ERROR    | Log | dev | 63820 | 2688 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:27.607557'}
+2026-01-05 23:25:48.470 | ERROR    | Log | dev | 71608 | 46240 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:48.463791'}
+2026-01-05 23:25:48.470 | ERROR    | Log | dev | 71608 | 46240 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:48.463791'}
+2026-01-05 23:25:48.471 | ERROR    | Log | dev | 71608 | 46240 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:48.463791'}
+2026-01-05 23:25:48.471 | ERROR    | Log | dev | 71608 | 46240 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:25:48.463791'}
+2026-01-05 23:26:57.270 | ERROR    | Log | dev | 64464 | 37620 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:26:57.264943'}
+2026-01-05 23:26:57.271 | ERROR    | Log | dev | 64464 | 37620 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:26:57.264943'}
+2026-01-05 23:26:57.271 | ERROR    | Log | dev | 64464 | 37620 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:26:57.264943'}
+2026-01-05 23:26:57.271 | ERROR    | Log | dev | 64464 | 37620 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:26:57.264943'}
+2026-01-05 23:29:15.835 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.836 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.836 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.837 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.837 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.837 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.838 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:29:15.838 | ERROR    | Log | dev | 63220 | 36376 | Log._log_with_context:356 | {
+    "total_holding_weight": 0.0
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:29:15.827060'}
+2026-01-05 23:32:30.944 | ERROR    | Log | dev | 60060 | 25892 | Log._log_with_context:356 | None | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:32:30.937628'}
+2026-01-05 23:32:30.945 | ERROR    | Log | dev | 60060 | 25892 | Log._log_with_context:356 | None | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:32:30.937628'}
+2026-01-05 23:32:30.945 | ERROR    | Log | dev | 60060 | 25892 | Log._log_with_context:356 | None | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:32:30.937628'}
+2026-01-05 23:32:30.945 | ERROR    | Log | dev | 60060 | 25892 | Log._log_with_context:356 | None | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:32:30.937628'}
+2026-01-05 23:33:16.943 | ERROR    | Log | dev | 68100 | 63108 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:16.936636'}
+2026-01-05 23:33:16.944 | ERROR    | Log | dev | 68100 | 63108 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:16.936636'}
+2026-01-05 23:33:16.944 | ERROR    | Log | dev | 68100 | 63108 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:16.936636'}
+2026-01-05 23:33:16.945 | ERROR    | Log | dev | 68100 | 63108 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:16.936636'}
+2026-01-05 23:33:29.851 | ERROR    | Log | dev | 65540 | 27136 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:29.843075'}
+2026-01-05 23:33:29.851 | ERROR    | Log | dev | 65540 | 27136 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:29.843075'}
+2026-01-05 23:33:29.851 | ERROR    | Log | dev | 65540 | 27136 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:29.843075'}
+2026-01-05 23:33:29.852 | ERROR    | Log | dev | 65540 | 27136 | Log._log_with_context:356 | {
+    "total_holding_weight": 200
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T23:33:29.843075'}
+2026-01-06 01:42:24.950 | ERROR    | Log | dev | 34416 | 25896 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:42:24.941172'}
+2026-01-06 01:42:24.950 | ERROR    | Log | dev | 34416 | 25896 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:42:24.941172'}
+2026-01-06 01:42:24.951 | ERROR    | Log | dev | 34416 | 25896 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:42:24.941172'}
+2026-01-06 01:44:41.106 | ERROR    | Log | dev | 42444 | 16468 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001E317EA2BF0>, <TradingTrigger.TradingTrigger object at 0x000001E317EA1930>]: SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:41.096318'}
+2026-01-06 01:44:41.106 | ERROR    | Log | dev | 42444 | 16468 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001E317EA1CF0>]: SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:41.096318'}
+2026-01-06 01:44:41.107 | ERROR    | Log | dev | 42444 | 16468 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001E317EA1180>]: SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:41.096318'}
+2026-01-06 01:44:54.659 | ERROR    | Log | dev | 53964 | 55756 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001EB29632BF0>, <TradingTrigger.TradingTrigger object at 0x000001EB29631930>]: SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:54.650789'}
+2026-01-06 01:44:54.659 | ERROR    | Log | dev | 53964 | 55756 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001EB29631CF0>]: SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:54.650789'}
+2026-01-06 01:44:54.659 | ERROR    | Log | dev | 53964 | 55756 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001EB29631180>]: SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:44:54.650789'}
+2026-01-06 01:45:44.695 | ERROR    | Log | dev | 66520 | 67796 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001B8E672BAF0>, <TradingTrigger.TradingTrigger object at 0x000001B8E6758460>]: SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:45:44.688087'}
+2026-01-06 01:45:44.696 | ERROR    | Log | dev | 66520 | 67796 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001B8E67584C0>]: SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:45:44.688087'}
+2026-01-06 01:45:44.696 | ERROR    | Log | dev | 66520 | 67796 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001B8E6758DF0>]: SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:45:44.688087'}
+2026-01-06 01:53:38.512 | ERROR    | Log | dev | 55908 | 54592 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001FEBBF02BF0>, <TradingTrigger.TradingTrigger object at 0x000001FEBBF01990>]: SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:53:38.504870'}
+2026-01-06 01:53:38.512 | ERROR    | Log | dev | 55908 | 54592 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001FEBBF01D50>]: SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:53:38.504870'}
+2026-01-06 01:53:38.513 | ERROR    | Log | dev | 55908 | 54592 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x000001FEBBF01180>]: SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:53:38.504870'}
+2026-01-06 01:54:05.442 | ERROR    | Log | dev | 62688 | 49932 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x00000180FFE92BF0>, <TradingTrigger.TradingTrigger object at 0x00000180FFE91990>]: SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:54:05.434797'}
+2026-01-06 01:54:05.442 | ERROR    | Log | dev | 62688 | 49932 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x00000180FFE91D50>]: SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:54:05.434797'}
+2026-01-06 01:54:05.442 | ERROR    | Log | dev | 62688 | 49932 | Log._log_with_context:356 | [<TradingTrigger.TradingTrigger object at 0x00000180FFE91180>]: SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:54:05.434797'}
+2026-01-06 01:56:06.955 | ERROR    | Log | dev | 55260 | 72008 | Log._log_with_context:356 | [格式化失败] [<TradingTrigger.TradingTrigger object at 0x000002DC8F5F2BF0>, <TradingTrigger.TradingTrigger object at 0x000002DC8F5F19C0>]... | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:56:06.946939'}
+2026-01-06 01:57:42.001 | ERROR    | Log | dev | 64940 | 65068 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:57:41.993846'}
+2026-01-06 01:57:42.002 | ERROR    | Log | dev | 64940 | 65068 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:57:41.993846'}
+2026-01-06 01:57:42.003 | ERROR    | Log | dev | 64940 | 65068 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T01:57:41.993846'}
+2026-01-06 02:31:37.666 | ERROR    | Log | dev | 41020 | 27964 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:31:37.655579'}
+2026-01-06 02:31:37.667 | ERROR    | Log | dev | 41020 | 27964 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:31:37.655579'}
+2026-01-06 02:31:37.668 | ERROR    | Log | dev | 41020 | 27964 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:31:37.655579'}
+2026-01-06 02:41:10.009 | ERROR    | Log | dev | 65908 | 5460 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:10.000660'}
+2026-01-06 02:41:10.010 | ERROR    | Log | dev | 65908 | 5460 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:10.000660'}
+2026-01-06 02:41:10.010 | ERROR    | Log | dev | 65908 | 5460 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:10.000660'}
+2026-01-06 02:41:31.710 | ERROR    | Log | dev | 49504 | 31912 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:31.701526'}
+2026-01-06 02:41:31.711 | ERROR    | Log | dev | 49504 | 31912 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:31.701526'}
+2026-01-06 02:41:31.712 | ERROR    | Log | dev | 49504 | 31912 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T02:41:31.701526'}
+2026-01-06 12:43:04.930 | ERROR    | Log | dev | 28184 | 71744 | Log._log_with_context:356 | SQQQ | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:43:04.920264'}
+2026-01-06 12:43:04.931 | ERROR    | Log | dev | 28184 | 71744 | Log._log_with_context:356 | SOXS | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:43:04.920264'}
+2026-01-06 12:43:04.932 | ERROR    | Log | dev | 28184 | 71744 | Log._log_with_context:356 | SPXU | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:43:04.920264'}
+2026-01-06 12:56:52.727 | WARNING  | Log | dev | 52424 | 54984 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:56:52.671682'}
+2026-01-06 12:56:52.728 | WARNING  | Log | dev | 52424 | 54984 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:56:52.671682'}
+2026-01-06 12:56:52.729 | WARNING  | Log | dev | 52424 | 54984 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:56:52.671682'}
+2026-01-06 12:56:52.730 | WARNING  | Log | dev | 52424 | 54984 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:56:52.671682'}
+2026-01-06 12:57:17.496 | WARNING  | Log | dev | 50688 | 6412 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:17.442722'}
+2026-01-06 12:57:17.496 | WARNING  | Log | dev | 50688 | 6412 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:17.442722'}
+2026-01-06 12:57:17.497 | WARNING  | Log | dev | 50688 | 6412 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:17.442722'}
+2026-01-06 12:57:17.498 | WARNING  | Log | dev | 50688 | 6412 | Log._log_with_context:356 | {
+    "vix": 30
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:17.442722'}
+2026-01-06 12:57:56.543 | WARNING  | Log | dev | 55960 | 35844 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:56.490804'}
+2026-01-06 12:57:56.544 | WARNING  | Log | dev | 55960 | 35844 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:56.490804'}
+2026-01-06 12:57:56.545 | WARNING  | Log | dev | 55960 | 35844 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:56.490804'}
+2026-01-06 12:57:56.546 | WARNING  | Log | dev | 55960 | 35844 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T12:57:56.490804'}
+2026-01-06 13:02:55.399 | WARNING  | Log | dev | 42248 | 18052 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:02:55.350827'}
+2026-01-06 13:02:55.400 | WARNING  | Log | dev | 42248 | 18052 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:02:55.350827'}
+2026-01-06 13:02:55.401 | WARNING  | Log | dev | 42248 | 18052 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:02:55.350827'}
+2026-01-06 13:02:55.402 | WARNING  | Log | dev | 42248 | 18052 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:02:55.350827'}
+2026-01-06 13:03:12.198 | WARNING  | Log | dev | 12104 | 65772 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:03:12.148721'}
+2026-01-06 13:03:12.199 | WARNING  | Log | dev | 12104 | 65772 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:03:12.148721'}
+2026-01-06 13:03:12.200 | WARNING  | Log | dev | 12104 | 65772 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:03:12.148721'}
+2026-01-06 13:03:12.201 | WARNING  | Log | dev | 12104 | 65772 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T13:03:12.148721'}
+2026-01-06 14:02:14.173 | WARNING  | Log | dev | 72328 | 34800 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T14:02:14.122748'}
+2026-01-06 14:02:14.174 | WARNING  | Log | dev | 72328 | 34800 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T14:02:14.122748'}
+2026-01-06 14:02:14.175 | WARNING  | Log | dev | 72328 | 34800 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T14:02:14.122748'}
+2026-01-06 14:02:14.176 | WARNING  | Log | dev | 72328 | 34800 | Log._log_with_context:356 | 30 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-06T14:02:14.122748'}

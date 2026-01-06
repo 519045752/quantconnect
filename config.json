@@ -1,0 +1,57 @@
+{
+  "environment": {
+    "vix": {
+      "threshold": 30.0,
+      "volume": 0.4
+    }
+  },
+  "targets": [
+    {
+      "name": "SQQQ",
+      "strategies": [
+        {
+          "name": "Strategy1",
+          "param": {
+            "sigma_level": [
+              1.83,
+              3.72,
+              7.5
+            ],
+            "volume": 0.10,
+            "max_short_ratio": 0.30
+          }
+        }
+      ]
+    },
+    {
+      "name": "SOXS",
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.10,
+      "max_short_ratio": 0.30
+    },
+    {
+      "name": "SPXU",
+      "sigma_level": [
+        1.59,
+        3.24,
+        6.54
+      ],
+      "volume": 0.10,
+      "max_short_ratio": 0.30
+    },
+    {
+      "name": "SBIT",
+      "sigma_level": [
+        4.10,
+        8.16,
+        16.28
+      ],
+      "volume": 0.10,
+      "max_short_ratio": 0.30
+    }
+  ]
+}

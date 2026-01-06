@@ -1,0 +1,929 @@
+2026-01-05 19:58:00.425 | INFO     | Log | dev | 29496 | 50016 | Utils.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:58:00.425082'}
+2026-01-05 19:58:00.429 | ERROR    | Log | dev | 29496 | 50016 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:58:00.425082', 'exc_info': True}
+2026-01-05 19:59:42.754 | INFO     | Log | dev | 8468 | 16916 | Utils.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:59:42.754441'}
+2026-01-05 19:59:42.763 | ERROR    | Log | dev | 8468 | 16916 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:59:42.754441', 'exc_info': True}
+2026-01-05 20:00:36.554 | INFO     | Log | dev | 71128 | 71196 | Utils.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:00:36.554297'}
+2026-01-05 20:00:36.565 | ERROR    | Log | dev | 71128 | 71196 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:00:36.554297', 'exc_info': True}
+2026-01-05 20:03:35 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:03:35 | DEBUG | 调试信息
+2026-01-05 20:03:35 | INFO | 接口响应:
+{
+  "status": "ok",
+  "data": "测试"
+}
+2026-01-05 20:03:35 | WARNING | 警告信息
+2026-01-05 20:03:35 | ERROR | 错误信息
+2026-01-05 20:03:35 | ERROR | division by zero: 除零错误
+2026-01-05 20:07:05.287 | INFO     | Log | dev | 12452 | 15056 | Utils.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:07:05.287134'}
+2026-01-05 20:07:05.291 | ERROR    | Log | dev | 12452 | 15056 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:07:05.287134', 'exc_info': True}
+2026-01-05 20:08:04 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:08:04 | ERROR | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 20:08:14 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:08:14 | INFO | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 20:17:12 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:17:12 | INFO | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 20:57:42.620 | INFO     | Log | dev | 64948 | 68948 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:57:42.620652'}
+2026-01-05 20:57:42.623 | INFO     | Log | dev | 64948 | 68948 | Log._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:57:42.620652'}
+2026-01-05 20:58:26.316 | INFO     | Log | dev | 66088 | 46200 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:26.316350'}
+2026-01-05 20:58:26.319 | DEBUG    | Log | dev | 66088 | 46200 | Log._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:26.316350'}
+2026-01-05 20:58:40.062 | INFO     | Log | dev | 46916 | 26628 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:40.062498'}
+2026-01-05 20:58:40.066 | DEBUG    | Log | dev | 46916 | 26628 | Log._log_with_context:336 | env:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:40.062498'}
+2026-01-05 20:58:40.066 | DEBUG    | Log | dev | 46916 | 26628 | Log._log_with_context:336 | targets:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:40.062498'}
+2026-01-05 20:58:48.167 | INFO     | Log | dev | 58008 | 61868 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:48.167389'}
+2026-01-05 20:58:48.170 | DEBUG    | Log | dev | 58008 | 61868 | Log._log_with_context:336 | env:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:48.167389'}
+2026-01-05 20:58:48.170 | DEBUG    | Log | dev | 58008 | 61868 | Log._log_with_context:336 | targets:
+[
+  {
+    "name": "SQQQ",
+    "holding_weight": 60,
+    "strategies": [
+      {
+        "name": "strategy_test_1",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      },
+      {
+        "name": "strategy_test_2",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "name": "SOXS",
+    "holding_weight": 40,
+    "strategies": {
+      "name": "strategy_test_1",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  {
+    "name": "SPXU",
+    "sigma_level": [
+      1.59,
+      3.24,
+      6.54
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  },
+  {
+    "name": "SBIT",
+    "sigma_level": [
+      4.1,
+      8.16,
+      16.28
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+] | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:58:48.167389'}
+2026-01-05 21:47:51.734 | INFO     | Log | dev | 19428 | 45904 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:47:51.734537'}
+2026-01-05 21:47:51.738 | DEBUG    | Log | dev | 19428 | 45904 | Log._log_with_context:336 | targets:
+[
+  {
+    "name": "SQQQ",
+    "holding_weight": 60,
+    "strategies": [
+      {
+        "name": "strategy_test",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      },
+      {
+        "name": "strategy_test_2",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "name": "SOXS",
+    "holding_weight": 40,
+    "strategies": {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  {
+    "name": "SPXU",
+    "sigma_level": [
+      1.59,
+      3.24,
+      6.54
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  },
+  {
+    "name": "SBIT",
+    "sigma_level": [
+      4.1,
+      8.16,
+      16.28
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+] | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:47:51.734537'}
+2026-01-05 21:50:03.780 | INFO     | Log | dev | 60072 | 44092 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:50:03.780605'}
+2026-01-05 21:50:03.784 | DEBUG    | Log | dev | 60072 | 44092 | Log._log_with_context:336 | SQQQ:
+{
+  "name": "SQQQ",
+  "holding_weight": 60,
+  "strategies": [
+    {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    },
+    {
+      "name": "strategy_test_2",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  ]
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:50:03.780605'}
+2026-01-05 21:50:03.785 | DEBUG    | Log | dev | 60072 | 44092 | Log._log_with_context:336 | SOXS:
+{
+  "name": "SOXS",
+  "holding_weight": 40,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:50:03.780605'}
+2026-01-05 21:50:03.785 | DEBUG    | Log | dev | 60072 | 44092 | Log._log_with_context:336 | SPXU:
+{
+  "name": "SPXU",
+  "holding_weight": 100,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:50:03.780605'}
+2026-01-05 21:53:38.440 | INFO     | Log | dev | 70576 | 20296 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:53:38.440281'}
+2026-01-05 21:53:38.444 | DEBUG    | Log | dev | 70576 | 20296 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SQQQ",
+    "holding_weight": 60,
+    "strategies": [
+      {
+        "name": "strategy_test",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      },
+      {
+        "name": "strategy_test_2",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      }
+    ]
+  },
+  "holding_weight": 0.3,
+  "strategies": [
+    {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    },
+    {
+      "name": "strategy_test_2",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  ]
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:53:38.440281'}
+2026-01-05 21:53:38.444 | DEBUG    | Log | dev | 70576 | 20296 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SOXS",
+    "holding_weight": 40,
+    "strategies": {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  "holding_weight": 0.2,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:53:38.440281'}
+2026-01-05 21:53:38.444 | DEBUG    | Log | dev | 70576 | 20296 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SPXU",
+    "holding_weight": 100,
+    "strategies": {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  "holding_weight": 0.5,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:53:38.440281'}
+2026-01-05 21:54:00.807 | INFO     | Log | dev | 9380 | 29956 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:00.807223'}
+2026-01-05 21:54:00.811 | DEBUG    | Log | dev | 9380 | 29956 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SQQQ",
+    "holding_weight": 60,
+    "strategies": [
+      {
+        "name": "strategy_test",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      },
+      {
+        "name": "strategy_test_2",
+        "param": {
+          "sigma_level": [
+            1.83,
+            3.72,
+            7.5
+          ],
+          "volume": 0.1,
+          "max_short_ratio": 0.3
+        }
+      }
+    ]
+  },
+  "holding_weight": 0.3,
+  "strategies": [
+    {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    },
+    {
+      "name": "strategy_test_2",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  ]
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:00.807223'}
+2026-01-05 21:54:00.811 | DEBUG    | Log | dev | 9380 | 29956 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SOXS",
+    "holding_weight": 40,
+    "strategies": {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  "holding_weight": 0.2,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:00.807223'}
+2026-01-05 21:54:00.812 | DEBUG    | Log | dev | 9380 | 29956 | Log._log_with_context:336 | {
+  "name": {
+    "name": "SPXU",
+    "holding_weight": 100,
+    "strategies": {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          3.18,
+          6.51,
+          13.2
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  },
+  "holding_weight": 0.5,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:00.807223'}
+2026-01-05 21:54:16.731 | INFO     | Log | dev | 55524 | 30760 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:16.731786'}
+2026-01-05 21:54:16.735 | DEBUG    | Log | dev | 55524 | 30760 | Log._log_with_context:336 | {
+  "name": "SQQQ",
+  "holding_weight": 0.3,
+  "strategies": [
+    {
+      "name": "strategy_test",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    },
+    {
+      "name": "strategy_test_2",
+      "param": {
+        "sigma_level": [
+          1.83,
+          3.72,
+          7.5
+        ],
+        "volume": 0.1,
+        "max_short_ratio": 0.3
+      }
+    }
+  ]
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:16.731786'}
+2026-01-05 21:54:16.735 | DEBUG    | Log | dev | 55524 | 30760 | Log._log_with_context:336 | {
+  "name": "SOXS",
+  "holding_weight": 0.2,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:16.731786'}
+2026-01-05 21:54:16.736 | DEBUG    | Log | dev | 55524 | 30760 | Log._log_with_context:336 | {
+  "name": "SPXU",
+  "holding_weight": 0.5,
+  "strategies": {
+    "name": "strategy_test",
+    "param": {
+      "sigma_level": [
+        3.18,
+        6.51,
+        13.2
+      ],
+      "volume": 0.1,
+      "max_short_ratio": 0.3
+    }
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:54:16.731786'}
+2026-01-05 21:57:24.809 | INFO     | Log | dev | 42632 | 43148 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:57:24.812 | WARNING  | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:57:24.812 | DEBUG    | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:57:24.813 | DEBUG    | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test_2",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:57:24.813 | WARNING  | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:58:21.469 | INFO     | Log | dev | 24356 | 32728 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.473 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.473 | DEBUG    | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.474 | DEBUG    | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test_2",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.474 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.475 | DEBUG    | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.475 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.475 | DEBUG    | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 22:19:11.939 | INFO     | Log | dev | 50892 | 44648 | Log.__init__:71 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.942 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.942 | DEBUG    | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | DEBUG    | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test_2",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | DEBUG    | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.944 | DEBUG    | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:33:37.111 | INFO     | Log | dev | 51932 | 17640 | Log.__init__:78 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.114 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.115 | DEBUG    | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.115 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.116 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.116 | DEBUG    | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test_2",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.116 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.116 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:49 | {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.117 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.117 | DEBUG    | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.117 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:48 | {'name': 'SOXS', 'holding_weight': 40, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.117 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.118 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.118 | DEBUG    | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.119 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:48 | {'name': 'SPXU', 'holding_weight': 100, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:33:37.125 | INFO     | Global | dev | 51932 | 17640 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.105967'}
+2026-01-05 22:34:43.030 | INFO     | Log | dev | 26336 | 38444 | Log.__init__:78 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.033 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.033 | DEBUG    | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.034 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.034 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.034 | DEBUG    | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test_2",
+  "strategy_param": {
+    "sigma_level": [
+      1.83,
+      3.72,
+      7.5
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.034 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.035 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:49 | {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.035 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.035 | DEBUG    | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.036 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:48 | {'name': 'SOXS', 'holding_weight': 40, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.036 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.036 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.037 | DEBUG    | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "strategy_name": "strategy_test",
+  "strategy_param": {
+    "sigma_level": [
+      3.18,
+      6.51,
+      13.2
+    ],
+    "volume": 0.1,
+    "max_short_ratio": 0.3
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.037 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:48 | {'name': 'SPXU', 'holding_weight': 100, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:34:43.037 | INFO     | Global | dev | 26336 | 38444 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.023488'}
+2026-01-05 22:35:00.107 | INFO     | Log | dev | 52276 | 35556 | Log.__init__:78 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.107864'}
+2026-01-05 22:35:00.111 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.111 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.111 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:48 | {'name': 'SQQQ', 'holding_weight': 60, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}, {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.111 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:49 | {'name': 'strategy_test_2', 'params': {'sigma_level': [1.83, 3.72, 7.5], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.111 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:48 | {'name': 'SOXS', 'holding_weight': 40, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.112 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.112 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:48 | {'name': 'SPXU', 'holding_weight': 100, 'strategies': [{'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}}]} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:35:00.112 | INFO     | Global | dev | 52276 | 35556 | TradingPipeline.log:49 | {'name': 'strategy_test', 'params': {'sigma_level': [3.18, 6.51, 13.2], 'volume': 0.1, 'max_short_ratio': 0.3}} | {'name': 'Global', 'env': 'dev', 'timestamp': '2026-01-05T22:35:00.101863'}
+2026-01-05 22:41:46.641 | INFO     | Log | dev | 47128 | 65656 | Log.__init__:78 | 日志系统初始化完成 - 环境: dev, 级别: DEBUG | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.641 | DEBUG    | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 调试信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.641 | INFO     | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 接口响应:
+{
+  "status": "ok",
+  "data": "测试"
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.642 | WARNING  | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 警告信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.642 | ERROR    | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 错误信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.642 | ERROR    | Log | dev | 47128 | 65656 | Log._log_with_context:346 | division by zero: 除零错误 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906', 'exc_info': True}

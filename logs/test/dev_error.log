@@ -1,0 +1,121 @@
+2026-01-05 19:58:00.429 | ERROR    | Log | dev | 29496 | 50016 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:58:00.425082', 'exc_info': True}
+2026-01-05 19:59:42.763 | ERROR    | Log | dev | 8468 | 16916 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T19:59:42.754441', 'exc_info': True}
+2026-01-05 20:00:36.565 | ERROR    | Log | dev | 71128 | 71196 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:00:36.554297', 'exc_info': True}
+2026-01-05 20:03:35 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:03:35 | DEBUG | 调试信息
+2026-01-05 20:03:35 | INFO | 接口响应:
+{
+  "status": "ok",
+  "data": "测试"
+}
+2026-01-05 20:03:35 | WARNING | 警告信息
+2026-01-05 20:03:35 | ERROR | 错误信息
+2026-01-05 20:03:35 | ERROR | division by zero: 除零错误
+2026-01-05 20:07:05.291 | ERROR    | Log | dev | 12452 | 15056 | Utils._log_with_context:336 | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T20:07:05.287134', 'exc_info': True}
+2026-01-05 20:08:04 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:08:04 | ERROR | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 20:08:14 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:08:14 | INFO | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 20:17:12 | INFO | 日志系统初始化完成 - 环境: dev, 级别: DEBUG
+2026-01-05 20:17:12 | INFO | test:
+{
+  "vix": {
+    "threshold": 30.0,
+    "volume": 0.4
+  }
+}
+2026-01-05 21:57:24.812 | WARNING  | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:57:24.813 | WARNING  | Log | dev | 42632 | 43148 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:57:24.809642'}
+2026-01-05 21:58:21.473 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.474 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 21:58:21.475 | WARNING  | Log | dev | 24356 | 32728 | Log._log_with_context:336 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T21:58:21.469433'}
+2026-01-05 22:19:11.942 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:19:11.943 | WARNING  | Log | dev | 50892 | 44648 | Log._log_with_context:336 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:19:11.939347'}
+2026-01-05 22:33:37.114 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.117 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:33:37.118 | WARNING  | Log | dev | 51932 | 17640 | Log._log_with_context:346 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:33:37.111968'}
+2026-01-05 22:34:43.033 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SQQQ",
+  "holding_weight": 0.3
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.035 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SOXS",
+  "holding_weight": 0.2
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:34:43.036 | WARNING  | Log | dev | 26336 | 38444 | Log._log_with_context:346 | {
+  "target_name": "SPXU",
+  "holding_weight": 0.5
+} | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:34:43.030490'}
+2026-01-05 22:41:46.642 | WARNING  | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 警告信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.642 | ERROR    | Log | dev | 47128 | 65656 | Log._log_with_context:346 | 错误信息 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906'}
+2026-01-05 22:41:46.642 | ERROR    | Log | dev | 47128 | 65656 | Log._log_with_context:346 | division by zero: 除零错误 | {'name': 'Log', 'env': 'dev', 'timestamp': '2026-01-05T22:41:46.641906', 'exc_info': True}
