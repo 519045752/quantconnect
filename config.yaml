@@ -1,4 +1,11 @@
 environment:
+  backtest:
+    cash: 10000000
+    start_date: 2024-01-01
+    order_fee: 0
+    currency: USD
+    daily_limit_ratio: 0.4
+
   vix:
     threshold: 30.0
     volume: 0.4
